@@ -1,16 +1,27 @@
 <div align="center">
 
-  <!-- Header Dynamic SVG Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Naveen%20👋&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20%7C%20PHP%20%26%20Laravel%20%7C%20React%20%7C%20DevOps&descAlignY=62&descFontSize=20" width="100%" alt="Header Banner" />
-
-  <!-- Dynamic Typing Subtitle -->
+  <!-- 🔥 Pro Animated Header Banner -->
   <a href="https://github.com/naveen936306">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+CodeIgniter+Specialist;Modern+Frontend+with+React+%26+JavaScript;MySQL+Database+Design+%26+Optimization;Hostinger%2C+VPS+Server+%26+Jenkins+CI%2FCD;Passionate+about+Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1e1e2f,50:6366f1,100:06b6d4&height=220&section=header&text=NAVEEN&fontSize=70&fontAlignY=46&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20%7C%20PHP%20%26%20LARAVEL%20%7C%20REACT%20%7C%20DEVOPS&descAlignY=70&descFontSize=16&descFontColor=a5f3fc&stroke=6366f1&strokeWidth=2" width="100%" alt="Header Banner" />
   </a>
 
+  <!-- ⚡ Dynamic Live Typing Animation -->
+  <a href="https://github.com/naveen936306">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=700&lines=⚡+Senior-Grade+Full+Stack+Web+Developer;🚀+Specialized+in+PHP%2C+Laravel+%26+CodeIgniter;⚛️+Building+Next-Gen+Interactive+UIs+with+React;🗄️+High-Performance+MySQL+Database+Architecture;☁️+Hostinger%2C+VPS+Linux+Servers+%26+Jenkins+CI%2FCD;✨+Crafting+Clean%2C+Scalable+%26+Secure+Web+Solutions" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- 🌐 Quick Social / Status Pills -->
   <p align="center">
     <a href="https://github.com/naveen936306">
-      <img src="https://komarev.com/ghpvc/?username=naveen936306&label=Profile%20Views&color=0e75c9&style=flat-square" alt="Profile Views" />
+      <img src="https://img.shields.io/badge/Status-🟢_Available_for_Projects-00C853?style=for-the-badge&logoColor=white" alt="Status" />
+    </a>
+    <a href="https://github.com/naveen936306">
+      <img src="https://img.shields.io/badge/Focus-Full_Stack_Engineering-6366F1?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus" />
+    </a>
+    <a href="https://github.com/naveen936306">
+      <img src="https://komarev.com/ghpvc/?username=naveen936306&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
     </a>
   </p>
 
@@ -18,124 +29,145 @@
 
 ---
 
-### 💫 About Me
+### 👨‍💻 Executive Summary
 
-```yaml
-name: Naveen
-role: Full Stack Web Developer
-experience: Web Application Engineering, API Development & Cloud Hosting
-passions: [Clean Code, Modern UI/UX, Performance Optimization, CI/CD Automation]
-currently_building: High-performance web applications & scalable backends
-focus: [PHP/Laravel/CodeIgniter, React, MySQL, Docker, Linux/VPS Hosting]
+```javascript
+const developer = {
+    name: "Naveen",
+    title: "Full Stack Software Engineer",
+    coreSpecialties: ["Web Application Engineering", "RESTful APIs", "Database Optimization", "CI/CD & Server Deployment"],
+    codebaseStack: {
+        frontend: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "Bootstrap", "jQuery"],
+        backend: ["PHP", "Laravel", "CodeIgniter", "REST API Development"],
+        database: ["MySQL", "Query Optimization", "Relational Architecture"],
+        devopsAndCloud: ["Hostinger", "VPS Linux", "Jenkins CI/CD", "Docker", "Git"]
+    },
+    mission: "Architecting lightning-fast, highly scalable, and secure web applications with zero compromise on UX."
+};
 ```
-
-- 🚀 **Frontend:** Crafting responsive, mobile-first, and interactive user interfaces using **React, JavaScript, HTML5/CSS3, jQuery, and Bootstrap**.
-- ⚙️ **Backend:** Architecting robust RESTful APIs and secure server-side applications with **PHP, Laravel, CodeIgniter, and MySQL**.
-- 🛠️ **Deployment & DevOps:** Managing production hosting on **Hostinger & VPS Servers**, automating pipelines with **Jenkins & Docker**.
-- 📈 **Continuous Growth:** Active daily contributor passionate about solving real-world problems through clean code.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🚀 Tech Stack Matrix
 
 <div align="center">
 
-#### 🎨 Frontend Development
-*Building responsive and interactive user interfaces with modern web standards.*
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-#### ⚙️ Backend & Database
-*Developing robust, secure server-side applications and high-speed database queries.*
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EE4326?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-#### 🚀 DevOps, Hosting & Tools
-*Platforms, server infrastructure, and CI/CD tools to build, deploy, and manage applications.*
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Hostinger-673AB7?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
-  <img src="https://img.shields.io/badge/VPS_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="VPS Server" />
-</p>
+  <!-- Interactive Icon Grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,react,php,laravel,mysql,git,docker,jenkins,vscode,linux&perline=7&theme=dark" alt="My Skills" />
+  </a>
 
 </div>
 
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h4>🎨 Frontend Engineering</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>⚙️ Backend & Data</h4>
+      <img src="https://img.shields.io/badge/PHP_8+-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CodeIgniter-EE4326?style=flat-square&logo=codeigniter&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MVC_Architecture-2496ED?style=flat-square&logo=diagram-next&logoColor=white" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>☁️ DevOps & Infrastructure</h4>
+      <img src="https://img.shields.io/badge/Hostinger_Cloud-673AB7?style=flat-square&logo=hostinger&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Linux_VPS_Server-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Jenkins_CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/VS_Code_Pro-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 📊 GitHub Activity & Daily Commit Graph
+### 📈 Real-Time Performance & Daily Commit Analytics
 
 <div align="center">
 
-  <!-- Interactive Daily Commit Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen936306&theme=tokyo-night&area=true&hide_border=true&custom_title=Daily%20Contribution%20%26%20Commit%20Activity%20Graph" width="100%" alt="Daily Commit Graph" />
+  <!-- Neon Commit & Activity Graph -->
+  <a href="https://github.com/naveen936306">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen936306&theme=tokyo-night&area=true&hide_border=true&radius=12&custom_title=%E2%9A%A1%20Daily%20Contribution%20%26%20Commit%20Metrics" width="100%" alt="Contribution Graph" />
+  </a>
 
   <br/><br/>
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=naveen936306&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
+  <!-- Streak Stats Card -->
+  <a href="https://github.com/naveen936306">
+    <img src="https://streak-stats.demolab.com?user=naveen936306&theme=tokyonight&hide_border=true&border_radius=12&card_width=750" width="100%" alt="GitHub Streak" />
+  </a>
 
   <br/><br/>
 
-  <!-- Stats & Top Languages side-by-side -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=naveen936306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Naveen's GitHub Stats" />
+  <!-- Side by Side Metrics -->
+  <table border="0" width="100%">
+    <tr align="center">
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=naveen936306&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen936306&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen936306&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <!-- Trophy Achievements -->
+  <!-- Trophy Showcase -->
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=naveen936306&theme=tokyonight&no-frame=true&no-bg=false&margin_w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/naveen936306">
+    <img src="https://github-profile-trophy.vercel.app/?username=naveen936306&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4&row=1&column=7" width="100%" alt="Trophies" />
+  </a>
 
 </div>
 
 ---
 
-### 🐍 Contribution Activity Snake
+### 🐍 Contribution Activity Flow
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
 
-### 🤝 Connect With Me
+### 📬 Connect & Collaborate
 
 <div align="center">
+  <p>Feel free to reach out for project inquiries, technical consulting, or development collaborations:</p>
+
   <a href="https://github.com/naveen936306" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="mailto:naveen@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://hostinger.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hostinger_VPS-673AB7?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" alt="Footer" />
+  <!-- Footer Aesthetic Curve -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:1e1e2f&height=120&section=footer" width="100%" alt="Footer" />
 </div>
