@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/main/assets/header.svg" width="100%" alt="Header Banner" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- ⚡ Live Dynamic Typing SVG -->
   <a href="https://github.com/naveen936306">
@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 About & Architecture
+### 👨‍💻 About & Engineering Architecture
 
 <div align="center">
   <!-- Native Vector SVG Terminal Card -->
@@ -45,37 +45,13 @@
 
 <div align="center">
 
-  <!-- Real-Time Activity Graph SVG -->
-  <a href="https://github.com/naveen936306">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen936306&theme=tokyo-night&area=true&hide_border=true&radius=14&custom_title=%E2%9A%A1%20Daily%20Commit%20%26%20Contribution%20Analytics" width="100%" alt="Daily Commit Graph" />
-  </a>
+  <!-- Native Vector Activity & Commit Graph -->
+  <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/main/assets/activity-graph.svg" width="100%" alt="Daily Commit Graph" />
 
   <br/><br/>
 
-  <!-- Streak Stats SVG -->
-  <a href="https://github.com/naveen936306">
-    <img src="https://streak-stats.demolab.com?user=naveen936306&theme=tokyonight&hide_border=true&border_radius=14&card_width=750" width="100%" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Side-by-Side Stats Cards -->
-  <table border="0" width="100%">
-    <tr align="center">
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=naveen936306&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen936306&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Trophy Showcase -->
-  <br/>
-  <a href="https://github.com/naveen936306">
-    <img src="https://github-profile-trophy.vercel.app/?username=naveen936306&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4&row=1&column=7" width="100%" alt="Trophies" />
-  </a>
+  <!-- Native Vector Stats & Language Metrics -->
+  <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/main/assets/stats.svg" width="100%" alt="GitHub Performance Stats" />
 
 </div>
 

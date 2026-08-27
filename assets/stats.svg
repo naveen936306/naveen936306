@@ -1,0 +1,91 @@
+<svg width="850" height="230" viewBox="0 0 850 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="statCardBg" x1="0" y1="0" x2="0" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0e172a"/>
+      <stop offset="100%" stop-color="#0b0f19"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; font-size: 14px; letter-spacing: 0.5px; }
+    .font-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 12.5px; fill: #94a3b8; }
+    .font-val { font-family: 'Fira Code', Consolas, monospace; font-weight: 800; font-size: 15px; fill: #f8fafc; }
+    .font-grade { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; font-size: 34px; fill: #38bdf8; }
+  </style>
+
+  <!-- LEFT CARD: REPO & CONTRIBUTION STATS -->
+  <g transform="translate(0, 0)">
+    <rect width="415" height="230" rx="14" fill="url(#statCardBg)" stroke="#1e293b" stroke-width="1.5"/>
+    <text x="25" y="36" fill="#38bdf8" class="font-title">📊 GITHUB PERFORMANCE STATS</text>
+
+    <!-- Stat Items -->
+    <g transform="translate(25, 54)">
+      <!-- Row 1 -->
+      <g transform="translate(0, 0)">
+        <text x="0" y="20" class="font-sub">Total Commits &amp; Contributions</text>
+        <text x="365" y="20" text-anchor="end" class="font-val" fill="#34d399">Active</text>
+      </g>
+      <line x1="0" y1="32" x2="365" y2="32" stroke="#1e293b"/>
+
+      <!-- Row 2 -->
+      <g transform="translate(0, 42)">
+        <text x="0" y="20" class="font-sub">Pull Requests &amp; Code Reviews</text>
+        <text x="365" y="20" text-anchor="end" class="font-val" fill="#818cf8">100%</text>
+      </g>
+      <line x1="0" y1="74" x2="365" y2="74" stroke="#1e293b"/>
+
+      <!-- Row 3 -->
+      <g transform="translate(0, 84)">
+        <text x="0" y="20" class="font-sub">Current Daily Streak</text>
+        <text x="365" y="20" text-anchor="end" class="font-val" fill="#fbbf24">🔥 Continuous</text>
+      </g>
+      <line x1="0" y1="116" x2="365" y2="116" stroke="#1e293b"/>
+
+      <!-- Row 4 -->
+      <g transform="translate(0, 126)">
+        <text x="0" y="20" class="font-sub">Architecture &amp; Code Quality Rating</text>
+        <text x="365" y="20" text-anchor="end" class="font-val" fill="#38bdf8">A+ Rank</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- RIGHT CARD: TOP LANGUAGES & TECH DENSITY -->
+  <g transform="translate(435, 0)">
+    <rect width="415" height="230" rx="14" fill="url(#statCardBg)" stroke="#1e293b" stroke-width="1.5"/>
+    <text x="25" y="36" fill="#818cf8" class="font-title">⚡ CODEBASE &amp; LANGUAGE MATRIX</text>
+
+    <g transform="translate(25, 60)">
+      <!-- PHP Bar -->
+      <g transform="translate(0, 0)">
+        <text x="0" y="0" class="font-sub">PHP &amp; Laravel</text>
+        <text x="365" y="0" text-anchor="end" fill="#777BB4" font-size="12" font-weight="700">42%</text>
+        <rect y="8" width="365" height="7" rx="3.5" fill="#1e293b"/>
+        <rect y="8" width="153" height="7" rx="3.5" fill="#777BB4"/>
+      </g>
+
+      <!-- JavaScript Bar -->
+      <g transform="translate(0, 38)">
+        <text x="0" y="0" class="font-sub">JavaScript &amp; React</text>
+        <text x="365" y="0" text-anchor="end" fill="#F7DF1E" font-size="12" font-weight="700">32%</text>
+        <rect y="8" width="365" height="7" rx="3.5" fill="#1e293b"/>
+        <rect y="8" width="116" height="7" rx="3.5" fill="#F7DF1E"/>
+      </g>
+
+      <!-- MySQL / Database Bar -->
+      <g transform="translate(0, 76)">
+        <text x="0" y="0" class="font-sub">MySQL &amp; Database Design</text>
+        <text x="365" y="0" text-anchor="end" fill="#4479A1" font-size="12" font-weight="700">16%</text>
+        <rect y="8" width="365" height="7" rx="3.5" fill="#1e293b"/>
+        <rect y="8" width="58" height="7" rx="3.5" fill="#4479A1"/>
+      </g>
+
+      <!-- DevOps & Infrastructure Bar -->
+      <g transform="translate(0, 114)">
+        <text x="0" y="0" class="font-sub">DevOps (Docker / Jenkins / VPS)</text>
+        <text x="365" y="0" text-anchor="end" fill="#34D399" font-size="12" font-weight="700">10%</text>
+        <rect y="8" width="365" height="7" rx="3.5" fill="#1e293b"/>
+        <rect y="8" width="36" height="7" rx="3.5" fill="#34D399"/>
+      </g>
+    </g>
+  </g>
+</svg>

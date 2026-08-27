@@ -1,60 +1,84 @@
-<svg fill="none" viewBox="0 0 900 240" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .terminal {
-          background: #0b0f19;
-          border-radius: 14px;
-          border: 1px solid #1e293b;
-          box-shadow: 0 15px 35px rgba(0,0,0,0.6);
-          font-family: 'Fira Code', 'Cascadia Code', Consolas, monospace;
-          color: #e2e8f0;
-          font-size: 13px;
-          line-height: 1.6;
-          padding: 16px 22px;
-          box-sizing: border-box;
-          height: 240px;
-        }
-        .term-header {
-          display: flex;
-          align-items: center;
-          gap: 7px;
-          margin-bottom: 12px;
-          border-bottom: 1px solid #1e293b;
-          padding-bottom: 10px;
-        }
-        .dot { width: 11px; height: 11px; border-radius: 50%; display: inline-block; }
-        .red { background: #ef4444; }
-        .yellow { background: #f59e0b; }
-        .green { background: #10b981; }
-        .term-title {
-          color: #64748b;
-          font-size: 12px;
-          margin-left: 8px;
-        }
-        .kw { color: #f43f5e; font-weight: 600; }
-        .prop { color: #38bdf8; }
-        .str { color: #34d399; }
-        .num { color: #fbbf24; }
-        .comment { color: #64748b; font-style: italic; }
-      </style>
-      <div class="terminal">
-        <div class="term-header">
-          <span class="dot red"></span>
-          <span class="dot yellow"></span>
-          <span class="dot green"></span>
-          <span class="term-title">naveen@workstation: ~/profile (zsh)</span>
-        </div>
-        <div>
-          <span class="kw">const</span> <span class="prop">engineer</span> = {<br/>
-          &nbsp;&nbsp;<span class="prop">name</span>: <span class="str">"Naveen"</span>,<br/>
-          &nbsp;&nbsp;<span class="prop">role</span>: <span class="str">"Full Stack Web Developer &amp; DevOps Specialist"</span>,<br/>
-          &nbsp;&nbsp;<span class="prop">stack</span>: [<span class="str">"PHP/Laravel"</span>, <span class="str">"React.js"</span>, <span class="str">"MySQL"</span>, <span class="str">"Docker"</span>, <span class="str">"Jenkins"</span>, <span class="str">"VPS"</span>],<br/>
-          &nbsp;&nbsp;<span class="prop">traits</span>: [<span class="str">"Clean Architecture"</span>, <span class="str">"Database Optimization"</span>, <span class="str">"CI/CD Automation"</span>],<br/>
-          &nbsp;&nbsp;<span class="prop">status</span>: <span class="str">"Building reliable &amp; ultra-fast web systems 🚀"</span><br/>
-          };
-        </div>
-      </div>
-    </div>
-  </foreignObject>
+<svg width="850" height="230" viewBox="0 0 850 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBg" x1="0" y1="0" x2="850" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0b0f19"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="termBorder" x1="0" y1="0" x2="850" y2="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'Cascadia Code', Consolas, Monaco, monospace; }
+  </style>
+
+  <!-- Window Container -->
+  <rect width="850" height="230" rx="14" fill="url(#termBg)"/>
+  <rect x="0.75" y="0.75" width="848.5" height="228.5" rx="13.25" stroke="url(#termBorder)" stroke-width="1.5"/>
+
+  <!-- Window Header Bar -->
+  <line x1="0" y1="38" x2="850" y2="38" stroke="#1e293b" stroke-width="1"/>
+  
+  <!-- Mac Window Dots -->
+  <circle cx="25" cy="19" r="5.5" fill="#ef4444"/>
+  <circle cx="43" cy="19" r="5.5" fill="#f59e0b"/>
+  <circle cx="61" cy="19" r="5.5" fill="#10b981"/>
+
+  <text x="85" y="23" fill="#64748b" font-size="12" font-weight="600" class="mono">naveen@workstation: ~/profile (zsh)</text>
+
+  <!-- Code Syntax Block -->
+  <g class="mono" font-size="13.5" font-weight="500">
+    <!-- Line 1 -->
+    <text x="30" y="70">
+      <tspan fill="#f43f5e" font-weight="700">const </tspan>
+      <tspan fill="#38bdf8">engineer </tspan>
+      <tspan fill="#ffffff">= </tspan>
+      <tspan fill="#ffffff">{</tspan>
+    </text>
+
+    <!-- Line 2 -->
+    <text x="50" y="94">
+      <tspan fill="#94a3b8">name: </tspan>
+      <tspan fill="#34d399">"Naveen"</tspan>
+      <tspan fill="#ffffff">,</tspan>
+    </text>
+
+    <!-- Line 3 -->
+    <text x="50" y="118">
+      <tspan fill="#94a3b8">role: </tspan>
+      <tspan fill="#34d399">"Full Stack Web Developer &amp; Cloud Deployment Specialist"</tspan>
+      <tspan fill="#ffffff">,</tspan>
+    </text>
+
+    <!-- Line 4 -->
+    <text x="50" y="142">
+      <tspan fill="#94a3b8">techStack: </tspan>
+      <tspan fill="#ffffff">[</tspan>
+      <tspan fill="#34d399">"PHP/Laravel"</tspan><tspan fill="#ffffff">, </tspan>
+      <tspan fill="#34d399">"React.js"</tspan><tspan fill="#ffffff">, </tspan>
+      <tspan fill="#34d399">"MySQL"</tspan><tspan fill="#ffffff">, </tspan>
+      <tspan fill="#34d399">"Docker"</tspan><tspan fill="#ffffff">, </tspan>
+      <tspan fill="#34d399">"Jenkins"</tspan><tspan fill="#ffffff">, </tspan>
+      <tspan fill="#34d399">"VPS"</tspan>
+      <tspan fill="#ffffff">],</tspan>
+    </text>
+
+    <!-- Line 5 -->
+    <text x="50" y="166">
+      <tspan fill="#94a3b8">focus: </tspan>
+      <tspan fill="#34d399">"Building scalable architectures &amp; high-performance web systems"</tspan>
+      <tspan fill="#ffffff">,</tspan>
+    </text>
+
+    <!-- Line 6 -->
+    <text x="50" y="190">
+      <tspan fill="#94a3b8">status: </tspan>
+      <tspan fill="#fbbf24">"🚀 Open for High-Impact Opportunities"</tspan>
+    </text>
+
+    <!-- Line 7 -->
+    <text x="30" y="212" fill="#ffffff">};</text>
+  </g>
 </svg>
