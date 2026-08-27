@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="850" height="240" viewBox="0 0 850 240" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Background Gradient -->
@@ -20,14 +21,6 @@
       <stop offset="40%" stop-color="#e0e7ff"/>
       <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
-
-    <!-- Ambient Glow Filters -->
-    <filter id="glowOrb1" x="-100" y="-100" width="400" height="400" filterUnits="userSpaceOnUse">
-      <feGaussianBlur stdDeviation="70" result="blur"/>
-    </filter>
-    <filter id="glowOrb2" x="550" y="0" width="400" height="400" filterUnits="userSpaceOnUse">
-      <feGaussianBlur stdDeviation="70" result="blur"/>
-    </filter>
   </defs>
 
   <style>
@@ -38,10 +31,6 @@
   <!-- Card Background -->
   <rect width="850" height="240" rx="16" fill="url(#headerBg)"/>
 
-  <!-- Ambient Glow Orbs -->
-  <circle cx="50" cy="30" r="100" fill="#6366f1" fill-opacity="0.25" filter="url(#glowOrb1)"/>
-  <circle cx="780" cy="200" r="100" fill="#06b6d4" fill-opacity="0.22" filter="url(#glowOrb2)"/>
-
   <!-- Border -->
   <rect x="0.75" y="0.75" width="848.5" height="238.5" rx="15.25" stroke="url(#headerBorder)" stroke-width="1.5"/>
 
@@ -50,7 +39,7 @@
     <rect width="240" height="28" rx="14" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.4"/>
     <circle cx="16" cy="14" r="4.5" fill="#10b981"/>
     <circle cx="16" cy="14" r="8" fill="#10b981" fill-opacity="0.2"/>
-    <text x="30" y="18.5" fill="#34d399" font-size="11" font-weight="700" letter-spacing="1" class="font-sans">AVAILABLE FOR PROJECTS</text>
+    <text x="30" y="18.5" fill="#34d399" font-size="11" font-weight="700" letter-spacing="1" class="font-sans">AVAILABLE FOR OPPORTUNITIES</text>
   </g>
 
   <text x="810" y="47" text-anchor="end" fill="#64748b" font-size="13" font-weight="600" class="font-mono">&lt;naveen.dev /&gt;</text>

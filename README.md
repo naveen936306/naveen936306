@@ -7,10 +7,8 @@
 
   <br/><br/>
 
-  <!-- ⚡ Live Dynamic Typing SVG -->
-  <a href="https://github.com/naveen936306">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=700&lines=⚡+Full+Stack+Web+Developer;🚀+Specialized+in+PHP%2C+Laravel+%26+CodeIgniter;⚛️+Building+Interactive+UIs+with+React.js;🗄️+High-Performance+MySQL+Architecture;☁️+Hostinger%2C+VPS+Linux+%26+Jenkins+CI%2FCD;✨+Crafting+Scalable+%26+Ultra-Fast+Web+Solutions" alt="Typing SVG" />
-  </a>
+  <!-- ⚡ Native Vector Typing Subtitle -->
+  <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/main/assets/typing.svg" width="100%" alt="Typing Subtitle" />
 
 </div>
 
@@ -57,32 +55,44 @@
 
 ---
 
-### 🐍 Contribution Activity Flow
+### 📬 Contact Form & Direct Inquiries
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+
+  <!-- Native Vector Contact Form Card -->
+  <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/main/assets/contact.svg" width="100%" alt="Contact Form Card" />
+
+  <br/><br/>
+
+  <!-- Interactive Quick Contact Action Buttons -->
+  <table border="0" align="center">
+    <tr align="center">
+      <td>
+        <a href="mailto:naveen936306@gmail.com?subject=Project%20Inquiry%20via%20GitHub&body=Hi%20Naveen,%0A%0AI%20am%20interested%20in%20working%20with%20you%20on%20a%20project:%0A%0A-%20Project%20Scope:%20%0A-%20Timeline:%20%0A-%20Budget:%20%0A%0ABest%20regards," target="_blank">
+          <img src="https://img.shields.io/badge/✉️_Direct_Email-Open_Message_Form-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+        </a>
+      </td>
+      <td>
+        <a href="https://linkedin.com/in/" target="_blank">
+          <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/naveen936306" target="_blank">
+          <img src="https://img.shields.io/badge/🐙_GitHub-Follow_%26_Collaborate-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
 
-### 📬 Connect With Me
+### 🐍 Contribution Activity Flow
 
 <div align="center">
-  <a href="https://github.com/naveen936306" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:naveen@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://hostinger.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hostinger_VPS-673AB7?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
-  </a>
+  <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 <br/>
