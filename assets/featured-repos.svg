@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850" height="210" viewBox="0 0 850 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="repoCardBg" x1="0" y1="0" x2="0" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0e172a"/>
+      <stop offset="100%" stop-color="#0b0f19"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-head { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; font-size: 14px; letter-spacing: 0.5px; }
+    .font-repo { font-family: 'Fira Code', monospace; font-weight: 700; font-size: 14px; fill: #38bdf8; }
+    .font-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; fill: #94a3b8; }
+    .font-tag { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; font-weight: 600; fill: #cbd5e1; }
+  </style>
+
+  <!-- CARD 1: my-portfolio -->
+  <g transform="translate(0, 0)">
+    <rect width="415" height="210" rx="14" fill="url(#repoCardBg)" stroke="#1e293b" stroke-width="1.5"/>
+    <g transform="translate(24, 26)">
+      <!-- Icon & Name -->
+      <circle cx="10" cy="8" r="7" fill="#6366f1" fill-opacity="0.2"/>
+      <text x="0" y="13" font-size="14">📦</text>
+      <text x="24" y="13" class="font-repo">my-portfolio</text>
+      
+      <rect x="300" y="-2" width="65" height="20" rx="10" fill="#38bdf8" fill-opacity="0.1" stroke="#38bdf8" stroke-opacity="0.3"/>
+      <text x="332" y="12" text-anchor="middle" fill="#38bdf8" font-size="10.5" font-weight="700" font-family="-apple-system, sans-serif">PUBLIC</text>
+
+      <!-- Description -->
+      <text x="0" y="44" class="font-desc">Modern, interactive portfolio web app built</text>
+      <text x="0" y="62" class="font-desc">with React, custom responsive layouts &amp; animations.</text>
+
+      <!-- Tags & Stats -->
+      <g transform="translate(0, 95)">
+        <circle cx="5" cy="5" r="5" fill="#f7df1e"/>
+        <text x="16" y="9" class="font-tag">JavaScript / React</text>
+
+        <text x="180" y="9" class="font-tag">⭐ Main Project</text>
+        <text x="290" y="9" class="font-tag">🌿 main</text>
+      </g>
+
+      <!-- Action hint -->
+      <g transform="translate(0, 130)">
+        <rect width="365" height="26" rx="6" fill="#ffffff" fill-opacity="0.04" stroke="#334155"/>
+        <text x="182" y="17" text-anchor="middle" fill="#a5b4fc" font-size="11" font-weight="600" font-family="-apple-system, sans-serif">➔ View Repository on GitHub</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- CARD 2: reactpro -->
+  <g transform="translate(435, 0)">
+    <rect width="415" height="210" rx="14" fill="url(#repoCardBg)" stroke="#1e293b" stroke-width="1.5"/>
+    <g transform="translate(24, 26)">
+      <!-- Icon & Name -->
+      <circle cx="10" cy="8" r="7" fill="#06b6d4" fill-opacity="0.2"/>
+      <text x="0" y="13" font-size="14">⚛️</text>
+      <text x="24" y="13" class="font-repo">reactpro</text>
+
+      <rect x="300" y="-2" width="65" height="20" rx="10" fill="#06b6d4" fill-opacity="0.1" stroke="#06b6d4" stroke-opacity="0.3"/>
+      <text x="332" y="12" text-anchor="middle" fill="#06b6d4" font-size="10.5" font-weight="700" font-family="-apple-system, sans-serif">PUBLIC</text>
+
+      <!-- Description -->
+      <text x="0" y="44" class="font-desc">Scalable React frontend application featuring</text>
+      <text x="0" y="62" class="font-desc">modular components, state management &amp; UI systems.</text>
+
+      <!-- Tags & Stats -->
+      <g transform="translate(0, 95)">
+        <circle cx="5" cy="5" r="5" fill="#61dafb"/>
+        <text x="16" y="9" class="font-tag">React.js</text>
+
+        <text x="180" y="9" class="font-tag">🚀 Web App</text>
+        <text x="290" y="9" class="font-tag">🌿 main</text>
+      </g>
+
+      <!-- Action hint -->
+      <g transform="translate(0, 130)">
+        <rect width="365" height="26" rx="6" fill="#ffffff" fill-opacity="0.04" stroke="#334155"/>
+        <text x="182" y="17" text-anchor="middle" fill="#a5f3fc" font-size="11" font-weight="600" font-family="-apple-system, sans-serif">➔ View Repository on GitHub</text>
+      </g>
+    </g>
+  </g>
+</svg>

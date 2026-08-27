@@ -6,7 +6,7 @@
       <stop offset="50%" stop-color="#0d1629"/>
       <stop offset="100%" stop-color="#140e2b"/>
     </linearGradient>
-    <linearGradient id="btnGrad" x1="0" y1="0" x2="200" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="btnGrad" x1="0" y1="0" x2="295" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#6366f1"/>
       <stop offset="100%" stop-color="#06b6d4"/>
     </linearGradient>
@@ -29,43 +29,43 @@
 
   <!-- Left: Form Mockup Fields -->
   <g transform="translate(35, 70)">
-    <!-- Field 1: Name / Email -->
+    <!-- Field 1: Inquiry Type -->
     <g transform="translate(0, 0)">
-      <text x="0" y="0" class="font-label">YOUR INQUIRY / REASON:</text>
+      <text x="0" y="0" class="font-label">YOUR INQUIRY / PROJECT:</text>
       <rect y="8" width="450" height="36" rx="8" fill="#ffffff" fill-opacity="0.04" stroke="#334155"/>
-      <text x="14" y="31" class="font-val" fill="#cbd5e1">Project Development / Full Stack Consulting</text>
+      <text x="14" y="31" class="font-val" fill="#cbd5e1">Full Stack Development &amp; Cloud Deployment</text>
     </g>
 
-    <!-- Field 2: Message Box -->
+    <!-- Field 2: Target Email -->
     <g transform="translate(0, 60)">
-      <text x="0" y="0" class="font-label">DIRECT EMAIL CHANNEL:</text>
+      <text x="0" y="0" class="font-label">DIRECT EMAIL INBOX:</text>
       <rect y="8" width="450" height="36" rx="8" fill="#ffffff" fill-opacity="0.04" stroke="#334155"/>
-      <text x="14" y="31" class="font-val" fill="#34d399">naveen936306@gmail.com</text>
+      <text x="14" y="31" class="font-val" fill="#34d399">naveenmanogaren@gmail.com</text>
     </g>
 
     <!-- Field 3: Status Note -->
     <g transform="translate(0, 120)">
       <text x="0" y="14" fill="#94a3b8" font-size="12" font-family="-apple-system, sans-serif">
-        ✨ Open for Freelance Projects, Full-Time Roles &amp; Technical Collaborations.
+        ✨ Open for Freelance Projects, Full-Time Roles &amp; Cloud Infrastructure Setup.
       </text>
     </g>
   </g>
 
-  <!-- Right: Action Cards -->
+  <!-- Right: Action Cards (Click to Redirect) -->
   <g transform="translate(520, 70)">
     <!-- Email Button Box -->
     <g transform="translate(0, 0)">
       <rect width="295" height="48" rx="10" fill="url(#btnGrad)"/>
       <text x="147" y="30" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="700" font-family="-apple-system, sans-serif">
-        ✉️ Send Direct Email
+        ✉️ Launch Email Composer ➔
       </text>
     </g>
 
-    <!-- LinkedIn Box -->
+    <!-- Gmail Web Redirect Box -->
     <g transform="translate(0, 60)">
-      <rect width="295" height="48" rx="10" fill="#0A66C2" fill-opacity="0.2" stroke="#0A66C2" stroke-opacity="0.5"/>
-      <text x="147" y="30" text-anchor="middle" fill="#38bdf8" font-size="14" font-weight="700" font-family="-apple-system, sans-serif">
-        💼 Connect on LinkedIn
+      <rect width="295" height="48" rx="10" fill="#EA4335" fill-opacity="0.15" stroke="#EA4335" stroke-opacity="0.4"/>
+      <text x="147" y="30" text-anchor="middle" fill="#f87171" font-size="13.5" font-weight="700" font-family="-apple-system, sans-serif">
+        🔴 Open Directly in Gmail
       </text>
     </g>
 
@@ -73,7 +73,7 @@
     <g transform="translate(0, 122)">
       <rect width="295" height="36" rx="8" fill="#ffffff" fill-opacity="0.03" stroke="#ffffff" stroke-opacity="0.06"/>
       <text x="147" y="23" text-anchor="middle" fill="#94a3b8" font-size="12" font-weight="600" font-family="-apple-system, sans-serif">
-        🌐 Remote Worldwide / IST Timezone
+        🌐 Remote Worldwide / Quick Turnaround
       </text>
     </g>
   </g>

@@ -39,6 +39,42 @@
 
 ---
 
+### 📦 Featured Repositories & Real-Time Projects
+
+<div align="center">
+
+  <!-- Clickable Native Vector Repositories Matrix -->
+  <a href="https://github.com/naveen936306?tab=repositories" target="_blank">
+    <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/main/assets/featured-repos.svg" width="100%" alt="Featured Repositories" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Direct Repository Quick Action Badges -->
+  <table border="0" align="center">
+    <tr align="center">
+      <td>
+        <a href="https://github.com/naveen936306/my-portfolio" target="_blank">
+          <img src="https://img.shields.io/badge/📦_my--portfolio-React_Web_App-6366F1?style=for-the-badge&logo=react&logoColor=white" alt="my-portfolio" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/naveen936306/reactpro" target="_blank">
+          <img src="https://img.shields.io/badge/⚛️_reactpro-Interactive_Frontend-06B6D4?style=for-the-badge&logo=javascript&logoColor=black" alt="reactpro" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/naveen936306/naveen936306" target="_blank">
+          <img src="https://img.shields.io/badge/⚡_Profile_Hub-Full_Stack-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Profile Hub" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
 ### 📈 Daily Commit & Real-Time Performance
 
 <div align="center">
@@ -55,31 +91,36 @@
 
 ---
 
-### 📬 Contact Form & Direct Inquiries
+### 📬 Send Mail & Contact Form (Click to Redirect)
 
 <div align="center">
 
-  <!-- Native Vector Contact Form Card -->
-  <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/main/assets/contact.svg" width="100%" alt="Contact Form Card" />
+  <!-- Clickable Native Vector Contact Form Card (Opens Gmail Web Directly) -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=naveenmanogaren@gmail.com&su=Project%20Inquiry%20%7C%20Full%20Stack%20Development&body=Hi%20Naveen,%0A%0AI%20am%20interested%20in%20collaborating%20with%20you%20on%20a%20project:%0A%0A-%20Project%20Type:%20(e.g.%20Web%20App%20/%20API%20/%20Hosting)%0A-%20Technologies:%20(PHP/Laravel,%20React,%20MySQL,%20VPS)%0A-%20Timeline%20&%20Scope:%20%0A%0ABest%20regards," target="_blank">
+    <img src="https://raw.githubusercontent.com/naveen936306/naveen936306/main/assets/contact.svg" width="100%" alt="Contact Form Card - Click to Send Mail" />
+  </a>
 
   <br/><br/>
 
-  <!-- Interactive Quick Contact Action Buttons -->
+  <!-- Interactive Redirect Action Buttons -->
   <table border="0" align="center">
     <tr align="center">
       <td>
-        <a href="mailto:naveen936306@gmail.com?subject=Project%20Inquiry%20via%20GitHub&body=Hi%20Naveen,%0A%0AI%20am%20interested%20in%20working%20with%20you%20on%20a%20project:%0A%0A-%20Project%20Scope:%20%0A-%20Timeline:%20%0A-%20Budget:%20%0A%0ABest%20regards," target="_blank">
-          <img src="https://img.shields.io/badge/✉️_Direct_Email-Open_Message_Form-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+        <!-- Open in Gmail Web -->
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=naveenmanogaren@gmail.com&su=Project%20Inquiry%20from%20GitHub&body=Hi%20Naveen,%0A%0AI%20would%20like%20to%20discuss%20a%20development%20project%20with%20you.%0A%0ABest%20regards," target="_blank">
+          <img src="https://img.shields.io/badge/🔴_Open_in_Gmail-Direct_Browser_Compose-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Open in Gmail" />
         </a>
       </td>
       <td>
+        <!-- Open in System Mail App -->
+        <a href="mailto:naveenmanogaren@gmail.com?subject=Project%20Inquiry%20via%20GitHub&body=Hi%20Naveen,%0A%0AI%20am%20interested%20in%20working%20with%20you%20on%20a%20project.%0A%0ABest%20regards," target="_blank">
+          <img src="https://img.shields.io/badge/✉️_Mail_App-Default_Email_Client-0ea5e9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Send Mail" />
+        </a>
+      </td>
+      <td>
+        <!-- LinkedIn Connect -->
         <a href="https://linkedin.com/in/" target="_blank">
-          <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/naveen936306" target="_blank">
-          <img src="https://img.shields.io/badge/🐙_GitHub-Follow_%26_Collaborate-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </td>
     </tr>
